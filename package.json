@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.5.8",
+    "@apollo/react-hooks": "^4.0.0",
+    "graphql": "^16.2.0",
+    "subscriptions-transport-ws": "^0.11.0"
+  },
+  "devDependencies": {
+    "@apollo/react-ssr": "^4.0.0"
+  }
+}
